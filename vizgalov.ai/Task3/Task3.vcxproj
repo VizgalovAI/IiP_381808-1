@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="TextEditor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TextEditor.cpp" />
+    <ClCompile Include="TextEditorTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
