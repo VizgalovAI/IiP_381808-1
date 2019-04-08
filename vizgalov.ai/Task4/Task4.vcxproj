@@ -146,6 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Contacts.h" />
+    <ClInclude Include="MyVector.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Contacts.cpp" />
+    <ClCompile Include="ContactsTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task1", "Task1\Task1.vcxproj", "{70037372-60DC-4ECF-8244-B65F2FA49A14}"
 EndProject
@@ -20,6 +20,11 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task8", "Task8\Task8.vcxproj", "{5DCBE1AF-7AC3-4E2A-AD4E-6A8E26FE8BB0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task9", "Task9\Task9.vcxproj", "{2EEE509B-830E-47D4-BB13-22A264785D36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1969201B-4E58-4EA4-BD57-C3214ADB9CAF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
