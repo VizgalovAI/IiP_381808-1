@@ -1,0 +1,50 @@
+3
+3
+150 200
+ddd
+dvd
+ddd
+8
+400 850
+vvvvvvvv
+ddvvvvdd
+ddvvvvdd
+ddvvvvdd
+ddvvvvdd
+ddvvvvdd
+dddddddd
+dddddddd
+4
+200 300
+dddd
+dddd
+dddd
+dddd
+3
+Comedy
+3 4 119
+19 00
+2
+1111
+0000
+0000
+0000
+Action movie
+4 7 120
+15 00
+0
+000
+000
+000
+Fantasy
+4 4 119
+07 00
+1
+11100000
+11000011
+11000011
+00000000
+00000000
+00000000
+00000000
+00000000
